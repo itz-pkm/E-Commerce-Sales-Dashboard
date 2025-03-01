@@ -17,7 +17,7 @@ stakeholders to make informed decisions for improving services and increasing sa
 - **🗺️ Map Visuals -** To Display sales amount generated in different States of India.
   
 ## 🖼️ Screenshots
-![E-Commerce Sales Dashboard](https://github.com/itz-pkm/E-Commerce-Sales-Dashboard/commit/9732d10a131afd10f737151b2100b42c6ae15db4)
+![E-Commerce Sales Dashboard](https://github.com/itz-pkm/E-Commerce-Sales-Dashboard/blob/main/E-Commerce-Sales-Dashboard.png)
 
 ## 🛠️ Technologies Used
 - **✅ Microsoft Power BI -** For creating reports and dashboards.
