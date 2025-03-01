@@ -7,8 +7,8 @@ has generated useful insights by covering KPIs such as **Sum of Amount, Sum of Q
 Amount by State, etc.** by performing sales analysis of an E-Commerce company.      
 
 ## 💡 Purpose of Project
-The purpose of the project is to analyze the sales of an E-Commerce company to extract useful insights which will further help 
-stakeholders to make informed decisions for improving services and increasing sales.
+The purpose of the project is to analyze the sales of an E-Commerce company to extract useful insights which will help businesses 
+track performance, identify trends, and make data-driven decisions effortlessly.
 
 ## 🎯 Key Features
 - **📈 Dynamic Charts & Graphs -** Such as Pie chart, Bar Chart, Column Chart, etc. to display some useful insights.
