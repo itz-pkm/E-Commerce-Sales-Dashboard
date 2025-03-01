@@ -21,7 +21,7 @@ stakeholders to make informed decisions for improving services and increasing sa
 
 ## 🛠️ Technologies Used
 - **✅ Microsoft Power BI -** For creating reports and dashboards.
-- **✅ Power Query Editor --** For data cleaning and manipulation before report building.
+- **✅ Power Query Editor -** For data cleaning and manipulation before report building.
 - **✅ Microsoft Excel -** for data exploration and preparation of raw data.
 
 ## 📦 Installation & Setup
