@@ -1,65 +1,48 @@
 # E-Commerce-Sales-Dashboard
 E-Commerce Sales Dashboard is an end-to-end Microsoft Power BI project about sales analysis and reporting of an E-Commerce company.
 
-# Online_Book_Store
-Online_Book_Store is an end-to-end SQL Project.
-
 ## 📝 Project Description
-Online_Book_Store is an end-to-end SQL project for gaining insights by analyzing sales of books across various cities and countries.
-It has covered KPIs such as **Total Revenue Generated, Details of all Customers of Canada, Most Frequently Ordered Book, 
-Total Quantity Sold, Avg. Price of Books of a Particular Genre, etc.** by running basic as well as advance queries.
+E-Commerce Sales Dashboard is a Power BI project about sales analysis and report building of an E-Commerce company. The dashboard 
+has generated useful insights by covering KPIs such as **Sum of Amount, Sum of Quantity, Sum of Profit, Month-wise Profit, 
+Amount by State, etc.** by performing sales analysis of an E-Commerce company.      
 
 ## 💡 Purpose of Project
-The purpose of project is to analyze the sales of books to extract useful insights which will further help stakeholders to make 
-informed decisions for improving services and increasing sales.
+The purpose of the project is to analyze the sales of an E-Commerce company to extract useful insights which will further help 
+stakeholders to make informed decisions for improving services and increasing sales.
 
 ## 🎯 Key Features
-- **Basic Queries -** Mainly focused on extracting basic level insights about books.
-- **Advance Queries -** Mainly focused on extracting advance level insights about order of books.
+- **📈 Dynamic Charts & Graphs -** Such as Pie chart, Bar Chart, Column Chart, etc. to display some useful insights.
+- **📊 Dynamic Card Visuals -** To display KPIs such as 'Sum of Amount', 'Sum of Profit', 'Avg. Order Value', etc.
+- **🔲 Dynamic Slicers -** To monitor & analyze sales quarterly as well as State-wise.
+- **🗺️ Map Visuals -** To Display sales amount generated in different States of India.
+  
+## 🖼️ Screenshots
+![E-Commerce Sales Dashboard]("C:\temp\E-Commerce-Sales-Dashboard.png")
 
 ## 🛠️ Technologies Used
-- **✅ PostgreSQL** for writing and running queries.
-- **✅ Microsoft Excel** for cleaning and preparation of raw data.
+- **✅ Microsoft Power BI -** For creating reports and dashboards.
+- **✅ Power Query Editor --** For data cleaning and manipulation before report building.
+- **✅ Microsoft Excel -** for data exploration and preparation of raw data.
 
 ## 📦 Installation & Setup
 1. Download the File:
    -  Clone the repository using:
    ```sh
-   git clone https://github.com/itz-pkm/Online_Book_Store.git
+   git clone https://github.com/itz-pkm/E-Commerce-Sales-Dashboard.git
    ```
-   -  Or download the .sql file directly from the repository.
-2. Install PostgreSQL (if not installed):
-   -  Ensure psql (PostgreSQL CLI) is accessible in your terminal.
-3. Create a New Database:
-   -  Open PostgreSQL and create a database:
-   ```Sql
-   CREATE DATABASE online_book_store;
-   ```
-4. Import the SQL Schema & Data:
-   -  Run the following command to import the schema and sample data:
-   ```Sh
-   psql -U your_username -d
-   online_book_store -f database/schema.sql
-   psql -U your_username -d
-   online_book_store -f database/data.sql
-   ```
-1. Verify Installation:
-   -  Open psql and check if tables are created:
-   ```Sql
-   /dt
-   ```
+   -  Or manually download the .pbix file directly from the repository.
+2. Download & Install Power BI Desktop (if not installed):
+3. Set Up the Data Source:
+   -  Ensure the dataset (Excel, CSV, SQL, etc.) is accessible.
 
 ## 📌 Usage Guide
-1. Connecting to the Database:
-   -  Run the command:
-   ```Sh
-   psql -U your_username -d
-   online_book_store
-2. Executing Queries:
-   -  Navigate to the queries folder and run SQL queries as needed:
-   ```Sql
-   SELECT * FROM books;
-   ```
+1. Open the Dashboard:
+   - Open the E-Commerce-Sales-Dashboard.pbix file in Power BI Desktop.
+2. Explore the Visuals:
+   - The dashboard contains multiple visuals, including sales trends, top-selling products and profit insights.
+   - Use slicers and filters to analyze data dynamically.
+3. Refresh Data (If Applicable):
+   - Click **Refresh** in Power BI to update the report with the latest data.
    
 ## 🤝 Contributing
 Contributions are welcome! Please follow these steps:
